@@ -14,6 +14,8 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 
+</br>
+
 ---
 
 ## 📌 Sobre mim
