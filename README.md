@@ -35,7 +35,7 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
   tittle="JAVA"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
 <img
   align="left"
@@ -43,7 +43,7 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
   tittle="NODEJS"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
 <img
   align="left"
@@ -51,7 +51,7 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
   tittle="PYTHON"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
 <img
   align="left"
@@ -75,7 +75,7 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
   tittle="KERAS"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg"
 />
 <img
   align="left"
@@ -83,7 +83,7 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
   tittle="TENSORFLOW"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"
 />
 <img
   align="left"
@@ -103,19 +103,11 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
 />
 <img
   align="left"
-  alt="POSTGRESQL"
-  tittle="POSTGRESQL"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-<img
-  align="left"
   alt="MYSQL"
   tittle="MYSQL"
   width="30px"
   style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 
 </br>
