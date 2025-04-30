@@ -6,40 +6,25 @@ Sou desenvolvedor de software com foco em soluções web e inteligência artific
 
 ## 🚀 Tecnologias e Ferramentas que utilizo:
 
-### 💻 Linguagens
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-</p>
-
-### 🔧 Frameworks e Bibliotecas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="TensorFlow" />
-</p>
-
-### 🛠️ Ferramentas
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman" />
-</p>
+[![HTML5](https://img.shields.io/badge/-HTML5-FF5733?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
+[![CSS3](https://img.shields.io/badge/-CSS3-005ED0?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[![JavaScript](https://img.shields.io/badge/-JavaScript-FFCA28?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)  
+[![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)](https://www.python.org/)  
+[![SQL](https://img.shields.io/badge/-SQL-2F2F2F?style=flat&logo=sqlite&logoColor=white)](https://www.sql.org/)  
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)  
+[![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)  
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)  
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)  
 
 ---
 
 ## 📌 Sobre mim
 - 🎯 Focado em entregar código limpo e de qualidade  
 - 🧠 Interessado em IA, visão computacional e automações inteligentes  
-- 📫 Entre em contato: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- 📫 Entre em contato: [felipeovgh@gmail.com](mailto:felipeovgh@gmail.com)
 
 ---
-
-## 📊 Estatísticas GitHub
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipe-dev&show_icons=true&theme=radical)
