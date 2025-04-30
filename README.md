@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Felipe
+# 🤓 Olá! Eu sou o Felipe
 
 Sou desenvolvedor de software com foco em soluções web e inteligência artificial. Tenho experiência com desenvolvimento front-end, back-end e sistemas baseados em visão computacional.
 
